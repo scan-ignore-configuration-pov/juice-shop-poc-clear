@@ -2,3 +2,5 @@ somefile.ts
 somefile2.ts
 somefile3.ts
 **/data
+
+package.json
